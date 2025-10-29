@@ -5,7 +5,7 @@
 
 **Estudante de Engenharia de Software - 2º Semestre**  
 **Técnico em Redes de Computadores**  
-📍 **Barbalha, Ceará - Brasil**
+**Barbalha, Ceará - Brasil**
 
 ### 💻 Projetos em Destaque:
 - **[Eco-Bot](https://github.com/ufca-es/Eco-bot)** - Projeto desenvolvido com Python, na disciplina de Fundamentos de Progamação - UFCA
