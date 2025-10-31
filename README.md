@@ -10,6 +10,8 @@
 ### 💻 Projetos em Destaque:
 - **[Eco-Bot](https://github.com/ufca-es/Eco-bot)** - Projeto desenvolvido com Python, na disciplina de Fundamentos de Progamação - UFCA
 - **[Jogo do Número Secreto](https://github.com/netoo-444/jogo-do-numero-secreto)** - Projeto desenvolvido com HTML, CSS e JavaScript para praticar lógica de programação - Alura
+- **[Sorteador de Números](https://github.com/netoo-444/Sorteador-de-numeros-)** - Projeto desenvolvido com HTML, CSS e JavaScript para praticar lógica de programação - Alura
+
 
 ### 📈 Em Evolução:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="60" height="60" title="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="60" height="60" title="CSS3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" title="JavaScript" />
