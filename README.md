@@ -3,7 +3,7 @@
 
 ## 🎓 Sobre Mim
 
-**Estudante de Engenharia de Software - 2º Semestre**  
+**Estudante de Engenharia de Software - 3º Semestre**  
 **Técnico em Redes de Computadores**  
 **Barbalha, Ceará - Brasil**
 
